@@ -1,2 +1,2 @@
 # Sundari
-Anamnesa untuk keperawatan
+Anamnesa Bukan Untuk Bahan Publikasi
