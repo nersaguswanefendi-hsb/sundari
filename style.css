@@ -73,7 +73,7 @@ header h1 {
     border-collapse: collapse;
     margin: 15px 0;
     font-size: 0.9rem;
-    min-width: 900px;
+    max-width: 900px;
 }
 
 .data-table thead tr {
