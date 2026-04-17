@@ -93,7 +93,12 @@ header h1 {
 }
 
 /* Responsivitas Tabel */
-@media (max-width: 300px) {
+@media (max-width: 600px) {
+    .main-content {
+        overflow-x: auto; /* Agar tabel bisa di-scroll horizontal jika terlalu lebar di HP */
+    }
+}
+@media (min-width: 200px) {
     .main-content {
         overflow-x: auto; /* Agar tabel bisa di-scroll horizontal jika terlalu lebar di HP */
     }
