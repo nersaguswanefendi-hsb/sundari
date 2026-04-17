@@ -98,11 +98,6 @@ header h1 {
         overflow-x: auto; /* Agar tabel bisa di-scroll horizontal jika terlalu lebar di HP */
     }
 }
-@media (max-width: 200px) {
-    .main-content {
-        overflow-x: auto; /* Agar tabel bisa di-scroll horizontal jika terlalu lebar di HP */
-    }
-}
 /* Kontainer untuk membungkus tabel agar border-radius berfungsi */
 .table-container {
     border: 1px solid #ddd;
