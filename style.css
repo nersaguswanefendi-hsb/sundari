@@ -143,11 +143,6 @@ header h1 {
     text-align: justify;
     max-width:200px;
 }
-.data-table tbody tr td .nh{
-    color: #2c3e50;
-    text-align: Left;
-    max-width:200px;
-}
 
 /* Tetap gunakan style zebra jika diperlukan */
 .zebra tbody tr:nth-of-type(even) {
